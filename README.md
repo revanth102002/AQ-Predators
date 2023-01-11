@@ -1,4 +1,4 @@
-*Heatwave and Air Quality Prediction Model*
+#**Heatwave and Air Quality Prediction Model**
 
 This project aims to build a machine learning model for predicting heatwaves and air quality index (AQI) in specific regions. The goal of the model is to provide reliable and accurate predictions on a monthly basis, so that authorities and individuals can take proactive measures to protect themselves and their communities.
 
